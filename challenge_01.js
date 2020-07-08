@@ -22,7 +22,7 @@ var summe = parseFloat(x) + parseFloat(y);
 
 console.log(summe);
 
-alert (summe);
+// alert (summe);
 
 output = document.getElementById ("output");
 output.innerHTML = summe;
